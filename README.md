@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pratik
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning python with amazon web services.
-- 💞️ I’m looking to collaborate on java coding parts also.
+- 👀 I’m interested to develop software products as per the users requirements.
+- 🌱 I’m currently working on amazon web services using python and java language.
+- 💞️ Most of the experience in java and python. Handson experience of creating REST api using python flask. As well as handson experience of creating simple micro service in java using spring boot and MySQL database. You can check out my Respos for better understanding of spring boot micrsoservice example.
 - 📫 You can reach to me on Email - pratikrpatil97@gmail.com
 
 <!---
